@@ -1,6 +1,6 @@
 # Actividad Sesión 3
 
-Puedes realizar los ejercicios creando un nuevo proyecto que compile TypeScript o puedes utilizar [el playground de TypeScript](https://www.typescriptlang.org/play). Dentro de **index.ts** tenéis los resultados a los dos primeros ejercicios.
+Puedes realizar los ejercicios creando un nuevo proyecto que compile TypeScript o puedes utilizar [el playground de TypeScript](https://www.typescriptlang.org/play).
 
 ## Ejercicio 1
 

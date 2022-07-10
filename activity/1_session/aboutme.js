@@ -6,7 +6,3 @@ const MENSAJE = `Hola, me llamo ${NOMBRE_APELLIDOS} y me dedico a ${PROFESION}.
 Estoy cursando este Máster porque me gustaría trabajar en ${PUESTO}`;
 
 console.log(MENSAJE);
-console.log("hello world");
-
-
-console.log("laater");
